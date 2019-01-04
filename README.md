@@ -11,3 +11,7 @@ test intro
 Sample website with plenty of files for demos
 
 ## how to contribute
+
+## Copy right
+
+MHJ CR
