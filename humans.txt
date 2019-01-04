@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    MHJ DA @MHJ
 
 # THANKS
 
