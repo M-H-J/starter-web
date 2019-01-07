@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work. Adding a new line
 emergency fix after stashing.
+multiple stashing example
 
 ## introduction
 
