@@ -16,4 +16,4 @@ lets fork and issue pull
 
 ## Copy right
 
-MHJ CR
+MHJ CR all rights reserved
